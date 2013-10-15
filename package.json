@@ -1,0 +1,27 @@
+{
+  "name": "sniffles",
+  "version": "0.0.1",
+  "description": "Reads Google Flu Trends data and outputs just recent U.S. data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jerryorr/sniffles.git"
+  },
+  "author": "Jerry Orr <jerry.orr@spiderstrategies.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "request": "~2.27.0",
+    "csv-stream": "~0.1.3",
+    "express": "3.x",
+    "lodash": "~2.2.1",
+    "moment": "~2.3.1"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
