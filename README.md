@@ -22,7 +22,7 @@ Quickstart
 Usage on Dash
 =====
 
- 1. Deploy `sniffles` somewhere that the intewebs can see it (like Heroku)
+ 1. Deploy `sniffles` somewhere that the intewebs can see it (like [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs))
  1. Go to http://thedash.com
  1. Sign up for an account if you don't already have one
  1. Create a new dashboard
